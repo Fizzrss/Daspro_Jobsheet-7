@@ -27,5 +27,6 @@ public class SiakadFor09 {
         System.out.println("Nilai terendah: " + terendah);
         System.out.println("Jumlah mahasiwa yang lulus: " + lulus);
         System.out.println("Jumlah mahasiwa yang tidak lulus: " + tidakLulus);
+        sc.close();
     }
 }
